@@ -1,1 +1,1 @@
-# web
+# minyakk.github.io
